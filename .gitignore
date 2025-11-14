@@ -1,0 +1,4 @@
+# Ignore all Altium History folders
+**/History/
+**/Project Logs for BTL_HW_V1.0.0/
+**/__Previews/
